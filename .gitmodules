@@ -1,0 +1,4 @@
+[submodule "jewel-blog/public"]
+	path = jewel-blog/public
+	url = git@github.com:jwlben11/jwlben11.github.io.git
+	branch = main
