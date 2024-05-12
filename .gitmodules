@@ -2,3 +2,7 @@
 	path = jewel-blog/public
 	url = git@github.com:jwlben11/jwlben11.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:jwlben11/jwlben11.github.io.git
+	branch = main
